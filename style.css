@@ -1,0 +1,105 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #F1F2F4;
+}
+nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 249, 239);
+    padding: 10px;
+}
+.Brand{
+ 
+    display: flex;
+
+}
+.home{
+    margin: 10px;
+}
+.home1{
+    display: flex;
+    margin: 10px;
+}
+.buttons{
+    display: flex;
+}
+.buttons1{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.roww{
+    height: 600px;
+    width: 100%;
+    background-image: url(https://t4.ftcdn.net/jpg/02/74/98/87/360_F_274988750_jA8EnS88HUOwlNmnDzUAqHushSgy6q1f.jpg);
+    background-size: cover;
+}
+.col2{
+    width: 700px;
+    margin-left: 100px;
+    
+}
+.row1{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+
+}
+.col3{
+    background-color: white;
+    margin: 10px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 20px;
+    width: 100px;
+}
+section{
+    background-color: blanchedalmond;
+}
+.row4{
+    height: 200px;
+    width: 100%;
+    display:flex ;
+    justify-content: space-around;
+
+}
+.col41{
+    width: 300px;
+
+}
+.under{
+    width: 130px;
+    background-color: yellow;
+    color: yellow;
+    height: 2px;
+}
+
+.row5{
+    height: 54px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+.col5{
+    padding: 80px;
+}
+#hi123{
+    background-color: blanchedalmond;
+    height: 350px;
+    width: 100%;
+}
+.row6{
+    height: 300px;
+    width: 100%;
+    background-color: yellow;
+    color: white;
+    padding-left: 70px;
+}
